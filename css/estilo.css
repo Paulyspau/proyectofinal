@@ -144,8 +144,7 @@ main {
   color: #28a745;
   text-transform: uppercase;
 }
-.aceites p {
-  font-size: 4rem;
+.aceites h2 {
   color: #212121;
   padding: 10px;
 }
