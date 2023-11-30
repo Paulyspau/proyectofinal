@@ -118,6 +118,7 @@ main {
 .resaltado2 {
   color: black;
   text-shadow: 1px 1px 1px white;
+  padding: 0 20px;
 }
 
 .bannerContenido p {
